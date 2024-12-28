@@ -1,4 +1,4 @@
-# Building a Secure Multi-Client Chat Application with AES Encryption & GUI
+# 💬Building a Secure Multi-Client Chat Application with AES Encryption & GUI 👩‍💻
 
 A secure, real-time multi-client chatroom application built using Python, Socket Programming, and AES encryption. This project allows multiple users to communicate securely over the network, with AES encryption ensuring that messages are transmitted privately. The application features a user-friendly graphical interface built using PyQt5.
 
